@@ -17,3 +17,14 @@ children:
   - /managing-contribution-settings-on-your-profile
 ---
 
+Remove-ClusterNode
+      [[-Name] <StringCollection>]
+      [-Force]
+      [-Wait <Int32>]
+      [-IgnoreStorageConnectivityLoss]
+      [-CleanupDisks]
+      [-InputObject <PSObject>]
+      [-Cluster <String>]
+      [-WhatIf]
+      [-Confirm]
+      [<CommonParameters>]
